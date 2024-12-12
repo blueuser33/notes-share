@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.heima.common.exception.ExceptionCatch
+  org.example.common.exception.ExceptionCatch

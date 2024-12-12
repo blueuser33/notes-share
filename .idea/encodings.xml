@@ -5,7 +5,9 @@
     <file url="file://$PROJECT_DIR$/notes-share-feign-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notes-share-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notes-share-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notes-share-service/notes-share-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notes-share-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notes-share-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notes-share-test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notes-share-utils/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

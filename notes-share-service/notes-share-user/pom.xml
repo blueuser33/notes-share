@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>notes-share</artifactId>
+        <artifactId>notes-share-service</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>notes-share-feign-api</artifactId>
+    <artifactId>notes-share-user</artifactId>
 
 
 </project>
