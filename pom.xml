@@ -16,6 +16,7 @@
         <module>notes-share-utils</module>
         <module>notes-share-test</module>
         <module>notes-share-model</module>
+        <module>notes-share-basic</module>
     </modules>
 
     <parent>

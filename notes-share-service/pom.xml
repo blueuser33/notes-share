@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>notes-share-user</module>
+        <module>notes-share-article</module>
     </modules>
     <dependencies>
         <!-- 引入依赖模块 -->
