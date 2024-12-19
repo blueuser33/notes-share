@@ -7,4 +7,6 @@ import org.example.model.user.pojos.ApUser;
 
 public interface UserService extends IService<ApUser> {
     public ResponseResult login(LoginDto loginDto);
+
+    ResponseResult queryUsername(Integer id);
 }

@@ -170,7 +170,7 @@ public class NewsServiceImpl extends ServiceImpl<NewsMapper, WmNews> implements 
         List<String> materials=new ArrayList<>();
         List<Map> maps = JSON.parseArray(content, Map.class);
         for(Map map:maps){
-            if(map.get("type").equals("img")){
+            if(map.get("type").equals("image")){
                 materials.add(map.get("value").toString());
             }
         }

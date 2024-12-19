@@ -10,6 +10,15 @@
     </parent>
 
     <artifactId>notes-share-feign-api</artifactId>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>notes-share-model</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
